@@ -1,6 +1,6 @@
 # 🚚 Route Optimizer
 
-A professional full-stack route optimization web application that calculates the most efficient delivery route across multiple stops using real road data. 
+A professional full-stack route optimization web application that calculates the most efficient delivery route across multiple stops using real road data.
 
 ![Route Optimizer](https://img.shields.io/badge/Stack-React%20%2B%20Node.js-blue) ![MapLibre](https://img.shields.io/badge/Map-MapLibre%20GL%20JS-green) ![OSRM](https://img.shields.io/badge/Routing-OSRM-orange) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
